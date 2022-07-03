@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ephrem Getachew</h1>
 <h3 align="center">Passionated in CPD & Web-Development</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **ephywaanofii@gmail.com**
 
