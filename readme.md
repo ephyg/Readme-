@@ -6,6 +6,9 @@
 </p>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephyg&langs_count=8)"/>
+</p>
+<p align="center">
   <a href="https://github.com/ephyg"><img src="https://github.com/fluidicon.png" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/E_p_h_y_G?t=wOAROjmSPrB0lgdqmEQCVw&s=09"><img src="https://abs.twimg.com/favicons/twitter.2.ico" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ephrem-getachew-epha-"><img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
