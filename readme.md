@@ -6,7 +6,7 @@
 </p>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephyg&langs_count=8)"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephyg&layout=compact"/>
 </p>
 <p align="center">
   <a href="https://github.com/ephyg"><img src="https://github.com/fluidicon.png" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
