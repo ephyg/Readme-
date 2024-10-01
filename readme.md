@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ephrem Getachew</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ephyg&label=Views&color=blue&style=plastic" alt="arman" width="100" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ephyg&label=Views&color=blue&style=plastic" /> </p>
 
 <h3 align="center">Software Engineer | Full-Stack Developer </h3>
 <p align="center">
