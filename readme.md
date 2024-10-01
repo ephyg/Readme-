@@ -52,8 +52,8 @@
 <br>
  <h2>⚙️ &nbsp;GitHub Analytics</h2>
 <a href="https://github.com/ephyg">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ephyg&show_icons=true&count_private=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ephyg&layout=compact&count_private=true&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ephyg&show_icons=true&count_private=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ephyg&layout=compact&count_private=true&langs_count=8&theme=dark"/>
 </a>
 
 <h2>🧩 &nbsp;Leetcode </h2>
