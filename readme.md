@@ -8,11 +8,12 @@
 <h3 align="center">Software Engineer | Full-Stack Developer </h3>
 <p align="center">
   <em>
-  I am an undergraduate in <b>Adama Science and Technology University</b>. 
-    <br>
-    I am passionate about web development and competitive programming . I love to learn and contribute in any and every possible way.
+    Hi there! 👋 I'm a student at <b>Adama Science and Technology University</b>.<br>
+    I'm passionate about <b>web development</b> and <b>competitive programming</b>.<br>
+    Always eager to learn, grow, and contribute in every way I can! 🚀
   </em>
 </p>
+
 
 
 <p align="center">
